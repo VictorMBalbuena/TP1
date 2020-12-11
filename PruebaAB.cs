@@ -23,6 +23,7 @@ namespace tp2
 			arbolBinarioA.inorden();
 			arbolBinarioA.postorden();
 			arbolBinarioA.recorridoPorNiveles();
+			Console.WriteLine("prueba del commit");
 			Console.Write("Presione una tecla para concluir la ejecucion . . . ");
 			Console.ReadKey(true);
 		}
